@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Goku",
+    "Forca": 10000,
+    "Chi": 100,
+    "Nivel": "NIVEL_3"
+  },
+  {
+    "Nome": "Vegeta",
+    "Forca": 8000,
+    "Chi": 100,
+    "Nivel": "NIVEL_2"
+  },
+  {
+    "Nome": "Goten",
+    "Forca": 5000,
+    "Chi": 100,
+    "Nivel": "NIVEL_2"
+  },
+  {
+    "Nome": "Trunks",
+    "Forca": 5000,
+    "Chi": 100,
+    "Nivel": "NIVEL_2"
+  }
+]
